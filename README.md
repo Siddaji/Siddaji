@@ -1,12 +1,11 @@
-# Hi, I'm Siddaji 👋
+# Hi ,I'm Siddaji 
 
-## 💫 About Me
+# 💫 About Me
 
-🚀 Currently building **full-stack projects** while strengthening my **Data Structures & Algorithms** and problem-solving skills.
-🤝 Open to collaborating on **beginner-friendly full-stack projects** where I can learn, contribute, and grow consistently.
-🌱 Currently focused on improving my **DSA fundamentals** and writing cleaner, more efficient code.
-⚡ Fun fact: I learn faster by **breaking code and fixing it** than by just watching tutorials.
-
+🚀I’m currently working on Building full-stack projects while strengthening my DSA and problem-solving skills.<br>
+🤝 I’m looking to collaborate on Beginner-friendly full-stack where I can learn and contribute consistently.<br>
+🌱 I’m currently learning Data Structures & Algorithms.<br>
+⚡ Fun fact I learn faster by breaking code than by reading tutorials
 
 
 ## 🌐 Socials:
