@@ -18,10 +18,10 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/siddaji?theme=dark&font=Karma)
 
 ## 🧠 Problem Solving
-- Solved: 165+ problems  
-- Strengths: Arrays, Strings, Linked Lists, Stacks  
+- Solved: 300+ problems  
+- Strengths: Arrays, Strings, Linked Lists, Stacks,Queue,Binary Trees  
 - Learning: Dynamic Programming, Graph Algorithms  
-- Goal: Reach 300+ problems with strong pattern recognition  
+- Goal: Reach 500+ problems with strong pattern recognition  
 - LeetCode: https://leetcode.com/u/siddaji/
 
 # 💻 Tech Stack:
